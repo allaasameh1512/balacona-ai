@@ -1,0 +1,18 @@
+Aphid
+Colorado beetle
+Gryllotalpa
+Mealybug
+Whitefly
+Wireworm
+ants
+bees
+beetle
+catterpillar
+earthworms
+earwig
+grasshopper
+moth
+slug
+snail
+wasp
+weevil
